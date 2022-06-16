@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="/images/undraw_Programming_re_kg9v.png" height="400px">
+  <img alt="" src="/images/undraw_Programming_re_kg9v.png" height="350px">
 </p>
 
 ### 🦄 Hello there, I'm [Nico Miguelino][6]!

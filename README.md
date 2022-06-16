@@ -26,8 +26,8 @@
 <br>
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50"/>
+  <img src="https://github.com/nicomiguelino/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/nicomiguelino/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>

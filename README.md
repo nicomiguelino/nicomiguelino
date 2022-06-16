@@ -1,14 +1,12 @@
-<p align="center">
+<div align="center">
   <img alt="" src="/images/undraw_Programming_re_kg9v.png" height="350px">
-</p>
+</div>
 
 ### 🦄 Hello there, I'm [Nico Miguelino][6]!
 
 - I'm a software engineer and a web developer. 💻
 - I like to build stuff. 🔨✨
 - Learning never stops. 🏃‍♂
-
-<br>
 
 
 ### 🐈 Socials

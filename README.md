@@ -46,6 +46,8 @@
   <img src="https://github.com/nicomiguelino/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50"/>
   <img src="https://github.com/nicomiguelino/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://github.com/nicomiguelino/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
+  <img src="https://github.com/nicomiguelino/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://github.com/nicomiguelino/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 
 <br>

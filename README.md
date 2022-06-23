@@ -1,12 +1,13 @@
-<div align="center">
-  <img alt="" src="/images/undraw_Programming_re_kg9v.png" height="350px">
-</div>
-
 ### 🦄 Hello there, I'm [Nico Miguelino][6]!
 
-- I'm a software engineer and a web developer. 💻
-- I like to build stuff. 🔨✨
-- Learning never stops. 🏃‍♂
+<br>
+
+<img alt="" src="/images/obiwan-hellothere.gif" witdh="100%">
+
+<br>
+
+I'm a software engineer 💻 with more than two years of working experience in web development (Django, to be more specific). <br>
+Outside of work, I've explored various tehcnologies like React ⚛️, and [many more][10].
 
 <br>
 
@@ -25,7 +26,7 @@
 
 #### [A Twitter Clone REST API][7] ([Heroku][9])
 
-Built using [Ruby on Rails 7][8], this side project allows me to brush up my proficiency in Ruby and Rails in a short period of time. I've been a Django developer for two years, but I've recently found out that It's quite easier to get started in Rails. (I've just applied what I've learned from Django at work.)
+Built using [Ruby on Rails 7][8], this side project allows me to brush up my proficiency in Ruby 💎 and Rails 🚋 in a short period of time. I've been a Django 🎸 developer for two years, but I've recently found out that It's quite easier to get started in Rails. (I've just applied what I've learned from Django at work.)
 
 I have plans on adding GraphQL support in the near future, so stay tuned for details! :octocat:
 
@@ -87,3 +88,4 @@ I have plans on adding GraphQL support in the near future, so stay tuned for det
 [7]: https://github.com/nicomiguelino/twitter-rails-api
 [8]: https://guides.rubyonrails.org/7_0_release_notes.html
 [9]: https://twitter-rails-api.herokuapp.com/
+[10]: #%EF%B8%8F-technologies-ive-worked-with

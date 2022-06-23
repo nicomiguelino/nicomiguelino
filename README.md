@@ -21,6 +21,17 @@
 <br>
 
 
+### 🐉 Personal Side Projects
+
+#### [A Twitter Clone REST API][7] ([Heroku][9])
+
+Built using [Ruby on Rails 7][8], this side project allows me to brush up my proficiency in Ruby and Rails in a short period of time. I've been a Django developer for two years, but I've recently found out that It's quite easier to get started in Rails. (I've just applied what I've learned from Django at work.)
+
+I have plans on adding GraphQL support in the near future, so stay tuned for details! :octocat:
+
+<br>
+
+
 ### ⚔️ Technologies I've Worked With
 
 <br>
@@ -73,3 +84,6 @@
 [4]: https://www.linkedin.com/in/nico-miguelino-640565122/
 [5]: https://github.com/nicomiguelino
 [6]: https://nicomiguelino.github.io/about/
+[7]: https://github.com/nicomiguelino/twitter-rails-api
+[8]: https://guides.rubyonrails.org/7_0_release_notes.html
+[9]: https://twitter-rails-api.herokuapp.com/

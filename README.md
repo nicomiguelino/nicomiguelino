@@ -7,7 +7,7 @@
 <br>
 
 I'm a software engineer 💻 with more than two years of working experience in web development (Django, to be more specific).
-Outside of work, I've explored various tehcnologies like React ⚛️, and [many more][10].
+Outside of work, I've explored various technologies like React ⚛️, and [many more][10].
 
 If not coding, I'm scouring the Internet for memes. 😺
 

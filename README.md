@@ -30,7 +30,7 @@ If not coding, I'm scouring the Internet for memes. 😺
 
 Built using [Ruby on Rails 7][8], this side project allows me to brush up my proficiency in Ruby 💎 and Rails 🚋 in a short period of time. I've been a Django 🎸 developer for two years, but I've recently found out that It's quite easier to get started in Rails. (I've just applied what I've learned from Django at work.)
 
-I have plans on adding GraphQL support in the near future, so stay tuned for details! :octocat:
+You could check out the GraphQL API here &ndash; http://twitter-rails-api.herokuapp.com/graphql/playground/.
 
 <br>
 

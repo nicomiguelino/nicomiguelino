@@ -6,8 +6,8 @@
 
 <br>
 
-I'm a software engineer 💻 with more than two years of working experience in web development (Django, to be more specific).
-Outside of work, I've explored various technologies like React ⚛️, and [many more][10].
+I'm a software engineer 💻 with 5+ years of professional experience in test automation, embedded systems development, and Web &amp; API development.
+Outside of work, I've continuously learn various technologies like React ⚛️, and [many more][10].
 
 <br>
 

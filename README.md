@@ -2,7 +2,7 @@
 
 <br>
 
-<img alt="" src="/images/obiwan-hellothere.gif" witdh="100%">
+<p align="center"><img alt="" src="/images/obiwan-hellothere.gif" width="100%"></p>
 
 <br>
 

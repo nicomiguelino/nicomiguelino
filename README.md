@@ -80,7 +80,7 @@ You could check out the GraphQL API here &ndash; http://twitter-rails-api.heroku
 <!--  Link References  -->
 
 [1]: https://github.com/anuraghazra/github-readme-stats
-[2]: https://github-readme-stats.vercel.app/api?username=nicomiguelino&show_icons=true&theme=buefy&count_private=true&include_all_commits=true
+[2]: https://github-readme-stats.vercel.app/api?username=nicomiguelino&show_icons=true&theme=buefy&count_private=true
 [3]: https://github-readme-stats.vercel.app/api/top-langs/?username=nicomiguelino&layout=compact&theme=buefy&hide=php,html,css
 [4]: https://www.linkedin.com/in/nico-miguelino-640565122/
 [5]: https://github.com/nicomiguelino

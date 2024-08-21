@@ -7,7 +7,6 @@
 <br>
 
 I'm a software engineer 💻 with 5+ years of professional experience in test automation, embedded systems development, and Web &amp; API development.
-Outside of work, I've continuously learn various technologies like React ⚛️, and [many more][10].
 
 <br>
 

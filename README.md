@@ -2,11 +2,7 @@
 
 <br>
 
-<p align="center"><img alt="" src="/images/obiwan-hellothere.gif" width="100%"></p>
-
-<br>
-
-I'm a software engineer 💻 with 5+ years of professional experience in test automation, embedded systems development, and Web &amp; API development.
+I'm a software engineer 💻 with 7+ years of professional experience in test automation, embedded systems development, and Web &amp; API development.
 
 <br>
 

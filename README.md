@@ -6,17 +6,6 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
 
 <br>
 
-
-### 🐈 Socials
-
-<br>
-
-[<img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][4]
-[<img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">][5]
-
-<br>
-
-
 ### ⚔️ Technologies I've Worked With
 
 <br>

@@ -1,8 +1,8 @@
-### 🦄 Hello there, I'm [Nico Miguelino][6]!
+### 🦄 Hi, I'm [Nico Miguelino][6]!
 
 <br>
 
-I'm a software engineer 💻 with 7+ years of professional experience in test automation, embedded systems development, and Web &amp; API development.
+I'm a software engineer with 10+ years of professional experience in full-stack engineering and test automation.
 
 <br>
 

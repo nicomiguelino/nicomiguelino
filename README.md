@@ -57,7 +57,7 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
 [3]: https://github-stats-extended.vercel.app/api/top-langs/?username=nicomiguelino&layout=compact&theme=buefy&hide=php
 [4]: https://www.linkedin.com/in/nico-miguelino-640565122/
 [5]: https://github.com/nicomiguelino
-[6]: https://nicomiguelino.github.io/about/
+[6]: https://nicomiguelino.github.io
 [7]: https://github.com/nicomiguelino/twitter-rails-api
 [8]: https://guides.rubyonrails.org/7_0_release_notes.html
 [9]: https://twitter-rails-api.herokuapp.com/

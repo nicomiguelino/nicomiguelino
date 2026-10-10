@@ -1,6 +1,6 @@
 ### :wave: Hi, I'm [Nico Miguelino][6]!
 
-I turn annoying problems into convenient tools, using engineering and creativity. Years in, I still can't resist tinkering.
+I turn annoying problems into convenient tools, using engineering and creativity.
 
 ### :hammer_and_wrench: My Stack
 

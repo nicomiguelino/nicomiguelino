@@ -56,9 +56,9 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
 
 <!--  Link References  -->
 
-[1]: https://github.com/anuraghazra/github-readme-stats
+[1]: https://github.com/stats-organization/github-stats-extended
 [2]: https://github-stats-extended.vercel.app/api?username=nicomiguelino&show_icons=true&theme=buefy&count_private=true
-[3]: https://github-stats-extended.vercel.app/api/top-langs/?username=nicomiguelino&layout=compact&theme=buefy&hide=php
+[3]: https://github-stats-extended.vercel.app/api/top-langs/?username=nicomiguelino&layout=compact&theme=buefy&hide=php&langs_count=10
 [4]: https://www.linkedin.com/in/nico-miguelino-640565122/
 [5]: https://github.com/nicomiguelino
 [6]: https://nicomiguelino.github.io

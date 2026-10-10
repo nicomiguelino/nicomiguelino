@@ -2,7 +2,7 @@
 
 I turn annoying problems into convenient tools, using engineering and creativity.
 
-### :hammer_and_wrench: My Stack
+### :computer: My Stack
 
 #### Languages & Data
 

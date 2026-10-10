@@ -49,6 +49,7 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
 ### :bar_chart: GitHub Statistics
 
 [![nicomiguelino's GitHub stats][2]][1]
+&nbsp;&nbsp;&nbsp;
 [![nicomiguelino's most used languages][3]][1]
   
 

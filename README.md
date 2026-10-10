@@ -1,8 +1,6 @@
 ### :wave: Hi, I'm [Nico Miguelino][6]!
 
-I'm a full-stack engineer with 10+ years of experience, including test automation. I like building things for the web, frontend or backend. I've rebuilt [my website][6] in Jekyll, Angular, and now Astro, mostly because I can't resist a good excuse to tinker. When I'm not coding, I'm usually listening to or playing music in my room.
-
-If any of this sounds interesting, feel free to reach out.
+I turn annoying problems into convenient tools, using engineering and a bit of creativity. Years in, I still can't resist tinkering.
 
 <br/>
 

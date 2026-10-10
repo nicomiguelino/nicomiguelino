@@ -1,4 +1,4 @@
-### 🦄 Hi, I'm [Nico Miguelino][6]!
+### :wave: Hi, I'm [Nico Miguelino][6]!
 
 <br>
 
@@ -6,9 +6,11 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
 
 <br>
 
-### ⚔️ Technologies I've Worked With
+### :hammer_and_wrench: My Stack
 
 <br>
+
+#### Programming Languages & Databases
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -17,15 +19,30 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+#### Libraries & Frameworks
+
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+</p>
+
+#### Tools
+
+<p align="left">
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOTAuNzY3IDEyNy4xMjZhNy45NjggNy45NjggMCAwIDAgNi4zNS0uMjQ0bDI2LjM1My0xMi42ODFhOCA4IDAgMCAwIDQuNTMtNy4yMDlWMjEuMDA5YTggOCAwIDAgMC00LjUzLTcuMjFMOTcuMTE3IDEuMTJhNy45NyA3Ljk3IDAgMCAwLTkuMDkzIDEuNTQ4bC01MC40NSA0Ni4wMjZMMTUuNiAzMi4wMTNhNS4zMjggNS4zMjggMCAwIDAtNi44MDcuMzAybC03LjA0OCA2LjQxMWE1LjMzNSA1LjMzNSAwIDAgMC0uMDA2IDcuODg4TDIwLjc5NiA2NCAxLjc0IDgxLjM4N2E1LjMzNiA1LjMzNiAwIDAgMCAuMDA2IDcuODg3bDcuMDQ4IDYuNDExYTUuMzI3IDUuMzI3IDAgMCAwIDYuODA3LjMwM2wyMS45NzQtMTYuNjggNTAuNDUgNDYuMDI1YTcuOTYgNy45NiAwIDAgMCAyLjc0MyAxLjc5M1ptNS4yNTItOTIuMTgzTDU3Ljc0IDY0bDM4LjI4IDI5LjA1OFYzNC45NDNaIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4%3D&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+#### Operating Systems
+
+<p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNCA5LjggMnY5LjRIMHpNMTEgMS44IDI0IDB2MTEuNEgxMXpNMCAxMi42aDkuOFYyMkwwIDIwLjZ6TTExIDEyLjZoMTNWMjRsLTEzLTEuOHoiLz48L3N2Zz4%3D&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
@@ -34,7 +51,7 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
 <br>
 
 
-### 📜 GitHub Statistics
+### :bar_chart: GitHub Statistics
 
 <br>
   

@@ -1,14 +1,8 @@
 ### :wave: Hi, I'm [Nico Miguelino][6]!
 
-<br>
-
 I'm a software engineer with 10+ years of professional experience in full-stack engineering and test automation.
 
-<br>
-
 ### :hammer_and_wrench: My Stack
-
-<br>
 
 #### Languages & Data
 
@@ -47,19 +41,12 @@ I'm a software engineer with 10+ years of professional experience in full-stack 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNCA5LjggMnY5LjRIMHpNMTEgMS44IDI0IDB2MTEuNEgxMXpNMCAxMi42aDkuOFYyMkwwIDIwLjZ6TTExIDEyLjZoMTNWMjRsLTEzLTEuOHoiLz48L3N2Zz4%3D&logoColor=white" alt="Windows"/>
 </p>
 
-<br>
-
-
 ### :bar_chart: GitHub Statistics
 
-<br>
-  
 [![nicomiguelino's GitHub stats][2]][1]
 
 [![nicomiguelino's most used languages][3]][1]
   
-<br>
-
 
 
 <!--  Link References  -->
